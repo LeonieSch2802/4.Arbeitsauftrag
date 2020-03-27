@@ -10,7 +10,7 @@ namespace _4.Arbeitsauftrag
     {
         static void Main(string[] args)
         {
-            //1.Aufgabe
+            //1.Übung
 
             int zahl = 3;
 
@@ -41,7 +41,7 @@ namespace _4.Arbeitsauftrag
             }
 
 
-            //2. Aufgabe
+            //2. Übung
 
             int zahl1 = 10;
             int zahl2 = 0;
