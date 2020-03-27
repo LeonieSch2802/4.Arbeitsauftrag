@@ -1,0 +1,6 @@
+C:\Users\lschn\OneDrive\CORONAFERIEN\APR\4.Arbeitsauftrag\bin\Debug\4.Arbeitsauftrag.exe.config
+C:\Users\lschn\OneDrive\CORONAFERIEN\APR\4.Arbeitsauftrag\bin\Debug\4.Arbeitsauftrag.exe
+C:\Users\lschn\OneDrive\CORONAFERIEN\APR\4.Arbeitsauftrag\bin\Debug\4.Arbeitsauftrag.pdb
+C:\Users\lschn\OneDrive\CORONAFERIEN\APR\4.Arbeitsauftrag\obj\Debug\4.Arbeitsauftrag.csprojAssemblyReference.cache
+C:\Users\lschn\OneDrive\CORONAFERIEN\APR\4.Arbeitsauftrag\obj\Debug\4.Arbeitsauftrag.exe
+C:\Users\lschn\OneDrive\CORONAFERIEN\APR\4.Arbeitsauftrag\obj\Debug\4.Arbeitsauftrag.pdb
